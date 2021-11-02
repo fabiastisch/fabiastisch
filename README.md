@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 ![Fabiastisch's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiastisch&count_private=true&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?hide=hlsl,glsl,shaderlab&username=fabiastisch&layout=compact&langs_count=5&theme=dark)
+
+Credits to [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
